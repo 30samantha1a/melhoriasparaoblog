@@ -64,7 +64,7 @@ main {
 article{
       display: flex;
 
-      box-shadow: 0 2px 6px #17011a(0, 0, 0, 0.8s);
+      box-shadow: 2px 2px 6px #17011a(0, 0, 0, 0.8s);
 
       margin: 16px;
       gap: 16px;
