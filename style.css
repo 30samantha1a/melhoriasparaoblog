@@ -9,6 +9,10 @@
       --fonte-texto: 'Trebuchet MS', sans-serif;
 }
 
+* {
+      transition: background-color 0.3s ease;
+}
+
 .tema-escuro {
       --cor-primaria: #a870b6;
       --cor-segundaria: #1D0039;
