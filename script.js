@@ -14,5 +14,4 @@ const botoes = document.querySelectorAll("button");
       curtiu = false;
     }
   }
-
 })
