@@ -15,3 +15,11 @@ const botoes = document.querySelectorAll("button");
     }
   }
 })
+
+const btnTemaEscuro = document.querySelector("button");
+
+btnTemaEscuro.addEventListener('click', botaoClicado);
+
+function mudaTema(){
+  
+}
