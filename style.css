@@ -12,16 +12,16 @@ body{
 }
 
 header {
-      background-color: #4B015E;
-      color: #FFFFFF;
+      background-color: var(--cor-primaria);
+      color: var(--cor-contraste);
       text-align: center;
       margin: 0 auto;
       padding: 16px;
 }
 
 main {
-      background-color: #FFFFFF;
-      color: #4B015E;
+      background-color: var(--cor-fundo);
+      color: var(--cor-primaria);
       margin: 0 auto;
       padding: 16px;
 
@@ -32,7 +32,7 @@ main {
 article{
       display: flex;
 
-      border: 1px solid #4B015E;
+      border: 1px solid var(--cor-primaria);
 
       margin: 16px;
       gap: 16px;
