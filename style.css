@@ -15,10 +15,14 @@ main {
       color: #4B015E;
       margin: 0 auto;
       padding: 16px;
+
+      display: flex;
 }
 
 article{
       display: flex;
+
+      border: 1px solid #4B015E;
 }
 
 img {
