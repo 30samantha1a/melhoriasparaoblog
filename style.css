@@ -29,6 +29,7 @@ article{
       gap: 16px;
       padding: 16px;
 
+      flex: 1 1 25%;
 }
 
 img {
