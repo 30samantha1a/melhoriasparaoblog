@@ -79,4 +79,6 @@ img {
       font-weight: bold;
 }
 
-.btn-tema-escuro
+.btn-tema-escuro{
+      position: fixed;
+}
